@@ -1,2 +1,2 @@
 # M-JIPA
-mobile joint phone account web application project
+mobile joint phone Account web application project
